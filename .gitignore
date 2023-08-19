@@ -1,0 +1,28 @@
+# Django
+__pycache__/
+*.py[cod]
+*.db
+*.sqlite3
+*.log
+*.pot
+*.pytz
+*.coverage
+media/
+static/
+venv/
+.vscode/
+*.iml
+*.idea/
+
+# Fly.io
+.fly/
+fly.toml
+.deployignore
+flyctl.toml
+
+# Compiled Python Files
+*.pyc
+
+# Environment variables
+.env
+.env.flyio
