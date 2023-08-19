@@ -26,3 +26,6 @@ flyctl.toml
 # Environment variables
 .env
 .env.flyio
+
+# venv
+.venv
